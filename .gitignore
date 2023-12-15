@@ -1,1 +1,6 @@
 snow.env
+
+# Terraform Dependencies
+*.terraform*
+*.tfstate
+*.tfstate.*
