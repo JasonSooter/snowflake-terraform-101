@@ -4,8 +4,8 @@
 
 ![Snowflake Terraform 101.png](./Snowflake%20Terraform%20101.png)
 
-1. [Overview](./docs/01%20-%20overview.md)
-2. [Create New Repository](./docs/02%20-%20create%20new%20repository.md)
-3. [Create a Service User for Terraform](./docs/03%20-%20create%20a%20service%20user%20for%20terraform.md)
-4. [Setup Terraform Authentication](./docs/04%20-%20setup%20terraform%20authentication.md)
-5. [Declare Snowflake Resources](./docs/05%20-%20declare%20snowflake%20resources.md)
+1. [Overview](./docs/01-overview.md)
+2. [Create New Repository](./docs/02-create-new-repository.md)
+3. [Create a Service User for Terraform](./docs/03-create-a-service-user-for-terraform.md)
+4. [Setup Terraform Authentication](./docs/04-setup-terraform-authentication.md)
+5. [Declare Snowflake Resources](./docs/05-declare-snowflake-resources.md)
