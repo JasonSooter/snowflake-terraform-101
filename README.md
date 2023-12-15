@@ -9,3 +9,5 @@
 3. [Create a Service User for Terraform](./docs/03-create-a-service-user-for-terraform.md)
 4. [Setup Terraform Authentication](./docs/04-setup-terraform-authentication.md)
 5. [Declare Snowflake Resources](./docs/05-declare-snowflake-resources.md)
+6. [Preparing the Project to Run](./docs/06-preparing-the-project-to-run.md)
+7. [Commit Changes to Source Control](./docs/07-commit-changes-to-source-control.md)
