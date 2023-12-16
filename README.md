@@ -11,3 +11,5 @@
 5. [Declare Snowflake Resources](./docs/05-declare-snowflake-resources.md)
 6. [Preparing the Project to Run](./docs/06-preparing-the-project-to-run.md)
 7. [Commit Changes to Source Control](./docs/07-commit-changes-to-source-control.md)
+8. [Running Terraform](./docs/08-running-terraform.md)
+9. [Changing and Adding Resources](./docs/09-changing-and-adding-resources.md)
